@@ -11,4 +11,4 @@ class Restoran:
         self.name = name
         self.city = city
 
-print("ll")
+print("hello")
